@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This lab will take you through the steps needed to provision Oracle Integration Cloud Service and integrate OIC with the Weather API
+This lab will take you through the steps needed to provision Oracle Integration Cloud Service and integrate OIC with the Weather API.
 
 Estimated Time: 120 minutes
 
