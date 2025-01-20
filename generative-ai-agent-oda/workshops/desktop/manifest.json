@@ -25,15 +25,19 @@
       "filename": "../../oda/oda.md"
     },
     {
-      "title": "Lab 4: Setup OCI Visual Builder (VB)",
+      "title": "Lab 4: Setup Oracle Integration Cloud Service (OIC)",
+      "filename": "../../oic/oic.md"
+    },
+    {
+      "title": "Lab 5: Setup OCI Visual Builder (VB)",
       "filename": "../../vb/vb.md"
     },
     {
-      "title": "Lab 5: Demo User Experience",
+      "title": "Lab 6: Demo User Experience",
       "filename": "../../user/user.md"
     },
     {
-      "title": "Lab 6: (optional) Explore Functions in Depth",
+      "title": "Lab 7: (optional) Explore Functions in Depth",
       "filename": "../../functions/functions.md"
     },
     {
