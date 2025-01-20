@@ -38,8 +38,8 @@ The weather API provides Real-time or current weather access to near real-time w
 
     ![Signup WeatherAPI](images/signup1.png)
 
-2. Do the account verification Please login into your email account and click on the verification link provided within this email to    
-   verify your email address.
+2. Do the account verification Please login into your email account and click on the verification link  
+   provided within this email to verify your email address.
 
     ![Account Verification](images/acctverification.png)
 
