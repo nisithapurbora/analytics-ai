@@ -33,7 +33,7 @@ The weather API provides Real-time or current weather access to near real-time w
 
 
 1. Goto the URL and signup with details
-   https://www.weatherapi.com/signup.aspx.
+   https://www.weatherapi.com/signup.aspx
    Please provide the Email,Password and Signup.Click Signup
 
     ![Signup WeatherAPI](images/signup1.png)
