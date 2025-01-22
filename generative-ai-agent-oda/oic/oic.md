@@ -223,7 +223,7 @@ This task will help you to import the required integrations alongwith the relate
 
     ![Save Connection2](images/saveconn2.png)
 
-19. Ensure you get a successful Message after clicking on Save. Now Click on the Back Icon to configure the other connection
+19. Ensure you get a successful Message after clicking on Save. Now Click on the Back Icon to to review the Integration
 
     ![Goback From Connection2](images/gobackfromintegration.png)
 
