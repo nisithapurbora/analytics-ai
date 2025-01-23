@@ -139,8 +139,6 @@ This task will help you ensure that the required users are correctly defined. If
 
 11. Select the User and Click Assign to assign the user
 
-    ![Assign User To AdminRole](images/assignuser2admin.png)
-
 12. The User has now been assigned to Service Administrator role
 
     ![Assign User To AdminRole](images/userassigned2admin.png)
